@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods/black_pearl/black_pearl_localization.en.translation" ]
+
+source_file="res://mods/black_pearl/black_pearl_localization.csv"
+dest_files=[ "res://mods/black_pearl/black_pearl_localization.en.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

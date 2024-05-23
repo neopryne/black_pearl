@@ -1,0 +1,20 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://mods/black_pearl/BlackPearl.gd" type="Script" id=1]
+[ext_resource path="res://mods/black_pearl/ball1 gmtk.png" type="Texture" id=2]
+
+[resource]
+script = ExtResource( 1 )
+name = "BP_ITEM_BLACK_PEARL_NAME"
+aux_name = ""
+icon = ExtResource( 2 )
+description = "BP_ITEM_BLACK_PEARL_DESCRIPTION"
+category = "misc"
+base_stack_limit = 0
+stack_limit_category = ""
+consume_on_use = true
+discardable = false
+value = 1
+usable_contexts = 3
+battle_usage = 0
+sort_order = 0
